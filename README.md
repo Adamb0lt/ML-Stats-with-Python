@@ -1,6 +1,6 @@
 # Machine Learning Concepts Weekly Exercises
 
-This repository contains weeks of exercises focused on various machine learning concepts. Each week covers a specific topic to help you build a solid understanding of machine learning techniques.
+This repository contains weeks of exercises that I completed in relation to lectures and lecture code. They are focused on various machine learning concepts. Each week covers a specific topic to help you build a solid understanding of machine learning techniques.
 
 ## Topics Covered
 
