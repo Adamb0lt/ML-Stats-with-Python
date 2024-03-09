@@ -43,24 +43,6 @@ This repository contains weeks of exercises focused on various machine learning 
 ### Week 12: Neural Networks
 - Explore the fundamentals of neural networks and deep learning.
 
-## Additional Weeks
-
-### Week 07: NLP Extra
-- Additional challenges and in-depth exercises related to natural language processing.
-
-### Week 08: Data Visualization Extra
-- Extra exercises to enhance your skills in data visualization.
-
-### Week 09: A/B Testing Extra
-- Supplementary exercises for advanced A/B testing concepts.
-
-### Week 10: Streamlit Web Apps Extra
-- Extra projects and challenges to further extend your knowledge of Streamlit web applications.
-
-## Getting Started
-
-- Explore each week's folder and follow the instructions in the respective README.md file to complete the exercises.
-
 ## Note
 
 All exercises in this repository are the original work of the author unless otherwise stated. Contributions and suggestions are welcome!
